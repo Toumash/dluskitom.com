@@ -1,0 +1,101 @@
+baseURL = "https://dluskitom.now.sh"
+languageCode = "pl-pl"
+title = "Blog Tomasza"
+theme = "personal-web"
+#copyright="Tomasz Dłuski 2019"
+googleAnalytics = ""
+enableEmoji=true
+enableRobotsTXT=true
+pygmentsUseClasses=true
+pygmentsCodeFences=true
+
+[params.intro]
+  main = "Tomasz Dłuski :rocket:"
+  sub = "Web Developer | Team Manager"
+
+[taxonomies]
+  design = "designs"
+  tech = "techs"
+
+[blackfriday]
+  hrefTargetBlank = true
+
+[params]
+  breadcrumb = true
+  accentColor = "#FD3519"
+  mainSections = ['post'] # values: ['post', 'portfolio'] only accept one section, to be displayed bellow 404
+
+[params.notFound]
+  gopher = "/images/gopher.png" # checkout https://gopherize.me/
+  h1 = 'Bummer!'
+  p = "It seems that this page doesn't exist."
+
+[params.sections]
+  # Define how your sections will be called
+  # when automatically pulled. For instance in the 404 page
+  post = "post"
+  portfolio = "project"
+
+[params.sidebar]
+  backgroundImage = '/images/background_min.jpg' # header background image - default "/images/default_sidebar.jpg" - Photo by Tim Marshall on Unsplash
+  gradientOverlay = '' # default: rgba(0,0,0,0.4),rgba(0,0,0,0.4)
+  logo = "/images/avatar.v1_min.jpg" # - default "/images/edna-west.jpg"
+
+[params.assets]
+  favicon = "/assets/favicon.ico"
+  customCSS = "/assets/css/custom.css"
+
+[params.social]
+  github = "https://github.com/Toumash"
+  twitter = "https://twitter.com/TomaszDluski"
+  linkedin = "https://www.linkedin.com/in/tomasz.dluski"
+# medium = "https://medium.com/"
+# codepen = "https://codepen.io/"
+  youtube = "https://www.youtube.com/channel/UCRj0wZ5dfQQt9o2M1glK5yw"
+#  instagram = "https://www.instagram.com/"
+# gitlab = "https://gitlab.com/"
+# keybase = "https://keybase.io/"
+
+[params.contact]
+  email = ""
+  text= "" # text of the contact link in the sidebar. If email params.contact.email is defined
+
+
+[menu]
+
+[[menu.main]]
+  identifier = "about"
+  name = "O mnie"
+  title = "About section"
+  url = "/about/"
+  weight = -120
+
+# [[menu.main]]
+#   identifier = "portfolio"
+#   name = "Portfolio"
+#   title = "Portfolio"
+#   url = "/portfolio/"
+#   weight = -110
+
+[[menu.main]]
+  identifier = "blog"
+  name = "Blog"
+  title = "Blog section"
+  url = "/post/"
+  weight = -100
+
+[sitemap]
+  changefreq = "monthly"
+  filename = "sitemap.xml"
+  priority = 0.5
+
+[privacy]
+  [privacy.googleAnalytics]
+    anonymizeIP = true
+    disable = false
+    respectDoNotTrack = true
+    useSessionStorage = false
+  [privacy.twitter]
+    disable = false
+    enableDNT = true
+    simple = false

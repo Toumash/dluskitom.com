@@ -63,6 +63,7 @@ pygmentsCodeFences=true
 
 [menu]
 
+
 [[menu.main]]
   identifier = "about"
   name = "O mnie"
@@ -83,6 +84,13 @@ pygmentsCodeFences=true
   title = "Blog section"
   url = "/post/"
   weight = -100
+
+[[menu.main]]
+  identifier = "main"
+  name ="Start ⭐"
+  title= "Start"
+  url="/"
+  weight=-150
 
 [sitemap]
   changefreq = "monthly"

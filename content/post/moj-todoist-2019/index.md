@@ -1,5 +1,5 @@
 ---
-title: "Mój ToDoist w 2019"
+title: "Mój Todoist w 2019"
 date: 2019-08-04T16:27:30+02:00
 draft: false
 ---

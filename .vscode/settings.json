@@ -18,5 +18,6 @@
         // disable editor suggestions based on previous words
         "editor.quickSuggestions": false,
     },
-    "editor.wordWrapColumn": 120
+    "editor.wordWrapColumn": 120,
+    "editor.fontWeight": "900"
 }

@@ -1,5 +1,5 @@
 baseURL = "https://dluskitom.now.sh"
-languageCode = "pl-pl"
+languageCode = "pl-PL"
 title = "Blog Tomasza"
 theme = "personal-web"
 #copyright="Tomasz Dłuski 2019"

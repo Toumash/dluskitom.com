@@ -11,7 +11,7 @@ pygmentsCodeFences=true
 
 [params.intro]
   main = "Tomasz Dłuski :rocket:"
-  sub = "Web Dev | Productivity Ninja"
+  sub = "Software Engineer"
 
 [taxonomies]
   design = "designs"

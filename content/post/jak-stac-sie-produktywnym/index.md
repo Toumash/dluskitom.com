@@ -2,7 +2,7 @@
 title: "Jak stać się produktywnym?"
 date: 2019-08-18T16:27:30+02:00
 publishDate: "2019-08-20T17:17:22+02:00"
-draft: true
+draft: false
 ---
 
 Zawsze przychodzi taki moment w ciągu tygodnia, że najlepiej rzucić by to wszystko i wyjechać w bieszczady.
@@ -45,4 +45,20 @@ Do tego może nam pomóc Matryca Eisenhowera, która zakłada rodzielenie zadań
 
 Dla mnie jest to rozwiązanie zbyt skomplikowane. Mi osobiście wystarczy rozdzielenie per priorytet. Dzięki temu wiem co jest ważne a co nie.
 
-// TODO Przypisywanie zadań do projektów
+Kolejnym krokiem jest przypisanie zadania do konkretnego projektu. Dzięki temu nie zapomnimy o nim.
+
+Jak już wiemy co mamy robić, z czym związane oraz co jest potrzebne do wykonania danego zadania możemy przystąpić do cotygodniowej akcji planowania tygodnia.
+
+TAK!
+
+Raz w tygodniu (u mnie niedziela) **trzeba** zrobić sobie ogólny plan na cały tydzień - czyli zwyczajnie przejrzeć zadania we wszystkich projektach i stwierdzic które są po prostu wymagane. Reszte, która nie jest wymagana zostanie u mnie wykonana w czasie wolnym. 
+
+## Czasie wolnym???
+
+Niektórzy mogą pomyśleć, że jak to w czasie wolnym będę robił zadania...  
+No dobrze, a kiedy mam je zrobić? Czas niezagospodarowany zwykle przepada w niepamięć, a ja w ten sposób np. idą do pracy mogę zrobić jakieś proste zadanie oznaczone jako 5-minutowe.
+
+
+Daj szanse Todoist, rób cotygodniowy review i podziel się wynikami ;)
+
+

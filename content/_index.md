@@ -7,9 +7,9 @@ Cześć!
 Witam Cię na dluskitom.com - blogu skierowanym na rozwój!
 Informacje o mnie znajdziesz na stronie "O mnie" więc tutaj nie będę się powtarzał ;)
 
-## Jakie 3 tematy mnie najbardziej kręcą?+
+## 3 główne nurty
 
-1. Produktywność
+1. Lifestyle / Produktywność
 2. Walka z zastałym (legacy) kodem
 3. Office 365 | Microsoft Azure - Pro Tips
 
@@ -21,7 +21,7 @@ Motywacją do startu tego bloga jest fakt, że od jakiegoś czasu zdałem sobię
 
 Nie uważam siebie za guru programistów, ale chciałbym podzielić się moją ścieżką - dzielenie się wiedzą zawsze na prosie ;)
 
-## Produktywność
+## Lifestyle / Produktywność
 
 Przyjmując postawę którą uznajemy w firmie - jeśli coś jest nie tak, to najprawdopodobniej twoja wina - zasada ekstremalnego przywództwa Jocko Willinka - autora książki "Ekstremalne przywództwo - elitarne taktyki Navy Seals w Zarządzaniu". Autor mówi o braniu życia w swoje ręce, w skrócie daje nam to większe osiągi i więcej szczęścia, gdyż to co zrobiliśmy nie było dziełem przypadku, lecz naszych własnych, świadomych myśli.
 W tym miejscu mogę odesłać do twórcy "Przeciętny Człowiek" na YouTubie [Syndrom Piotrusia Pana, czyli tragedia dorosłych dzieci](https://www.youtube.com/watch?v=aBmgzIjV2iM)

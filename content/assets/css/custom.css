@@ -2,3 +2,7 @@
 html {
     background-color: #112f41 !important;
 }
+
+pre.chroma{
+    overflow-x: scroll;
+}

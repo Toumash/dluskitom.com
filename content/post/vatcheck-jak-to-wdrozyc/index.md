@@ -34,7 +34,7 @@ Aktualnie ministerstwo wspomina na [swojej stronie](https://www.gov.pl/web/kas/a
 Poniżej przyjrzyjmy się przykładowej implementacji opartej o Microsoft Azure. Wykorzystujemy tutaj darmowe dla wszystkich **Azure Functions**, które przechwytują od użytkownika plik z listą NIPów do sprawdzenia, a następnie kolejkowana jest praca sprawdzająca - tutaj już napisana funkcja azure dokonuje sprawdzenia statusu płatnika VAT oraz kont bankowych dla podanych nipów. Wynik takiej operacji wstawiany jest do drugiego kontenera blob o nazwie `results`.
 
 ## Kod
-[**github.com/toumash/vat-white-list**](https://github.com/Toumash/vat-white-list)
+Kod dostępny jest publicznie na githubie: [**github.com/toumash/vat-white-list**](https://github.com/Toumash/vat-white-list)
 
 ## Demo
 

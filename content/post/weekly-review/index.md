@@ -1,6 +1,7 @@
 ---
 title: "Weekly Review"
 date: 2020-01-29T21:16:14+01:00
+publishDate: "2020-02-09T13:17:22+02:00"
 draft: true
 ---
 

@@ -1,0 +1,8 @@
+/* fixes yellow background from the personal-web theme*/
+html {
+    background-color: #112f41 !important;
+}
+
+pre.chroma{
+    overflow-x: scroll;
+}
